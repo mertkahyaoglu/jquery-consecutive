@@ -1,5 +1,6 @@
 jquery-consecutive animation
 ==================
 
-* [Demonstration page][1]
+# [Demo][1]
 
+[1]: http://mertkahyaoglu.github.io/jquery-consecutive/
