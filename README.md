@@ -7,7 +7,7 @@ A jQuery plugin for consecutive fade and slide animation
 
 ```javascript
 id: '#item',         // id of each element to be animated
-animation: 'fade',   // animation type
+animation: 'fade',   // animation type 'fade' or 'slide'
 delay: 1000,         // milliseconds between two elements
 animationDelay: 500  // milliseconds of the animation
 ```
