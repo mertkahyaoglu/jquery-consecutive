@@ -1,9 +1,7 @@
-jquery-consecutive animation
+[Demo page][1]
 ==================
 
 A jQuery plugin for consecutive fade and slide animation
-
-* [Demo page][1]
 
 # Options
 
