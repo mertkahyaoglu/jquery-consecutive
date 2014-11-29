@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0}
+
+body{
+	background-color: #000c21;
+}
+
+#item {
+	float: left;
+	width: 20%;
+	height: 100%;
+}
